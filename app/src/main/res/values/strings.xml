@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSE226new</string>
+    <string name="title_activity_migration">MigrationActivity</string>
+    <string name="title_activity_crud">CRUD</string>
+</resources>
